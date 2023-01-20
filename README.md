@@ -2,7 +2,7 @@
 
 # Lab | Functional Programming
 
-## Introduction
+## Introductions
 
 In this lab we will learn the foundations of functional programming. To start off, we will mostly learn how to write and think functionally. We will also implement functional transformations on pandas dataframes.
 
